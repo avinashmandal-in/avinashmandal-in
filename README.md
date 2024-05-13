@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash Mandal
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python & Rust
+- 🌱 I’m currently a Student of Cybersecurity
 - 💞️ I’m looking to collaborate on building hacking tools 
 - 📫 code.abhinash@gmail.com
 
